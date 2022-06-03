@@ -11,3 +11,4 @@ Task#1.ipynb - первый пак задач
 Task#2.ipynb - второй пак задач  
 Task#3.ipynb - третий пак задач  
 Task#4.ipynb - четвертый пак задач  
+Kursach.ipynb - курсовая работа
